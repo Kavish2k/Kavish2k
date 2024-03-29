@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavish2k
-- 👀 I’m interested in Computer Science, AI and Gaming.
+- 👀 I’m interested in Computer Science, ML and Data Science
 - 🌱 I’m currently learning Python and SQL.
 
 <!---
