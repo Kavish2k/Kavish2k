@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavish2k
-- 👀 I’m interested in AI, ML and Data Science/
+- 👀 I’m interested in AI, ML and Data Science.
 - 🌱 I’m currently learning JavaScript, Vue, DSA and ML Basics.
 - My skills are as follows:
 - 1) Python
